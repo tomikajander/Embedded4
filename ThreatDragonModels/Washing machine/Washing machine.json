@@ -748,6 +748,11 @@
           "height": 1840,
           "width": 790
         }
+      },
+      {
+        "title": "Washing machine context diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
       }
     ]
   }
