@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "Process controller Top level DFD",
+    "owner": "Tomi Kajander"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Top DFD",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
